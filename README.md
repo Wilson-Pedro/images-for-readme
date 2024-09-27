@@ -1,0 +1,2 @@
+- Here is a repository dedicated to storing images that I use in the READMEs of other projects. <br>
+- (Aqui é um repositório dedicado ao armazenamento de imagens que utilizo nos READMEs de outros projetos.)
